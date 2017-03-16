@@ -1,4 +1,4 @@
 # hello-world
-just as a test
+make something different.
 
 Who am I?
