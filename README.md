@@ -1,4 +1,6 @@
 # hello-world
-make something different.
+//make something different.
 
 Who am I?
+
+Why this happen?
